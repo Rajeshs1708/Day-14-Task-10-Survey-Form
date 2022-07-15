@@ -1,0 +1,37 @@
+.all{
+    border: 1px solid #DDDDDD;
+}
+.check{
+    padding-bottom: 20px;
+    padding-top: 15px;
+}
+.checked{
+    color: orange;
+}
+.star{
+    color: red;
+}
+label{
+    font-size: 18px;
+}
+#first,#last{
+    width: 100%;
+}
+#email{
+    width: 100%;
+}
+.inline{
+    display: inline;
+    float: right;
+    margin-left: 2px;
+}
+.h6{
+    font-weight:bolder;
+}
+.one{
+    display: none;
+}
+.background{
+    background-color: #E7E7E7;
+}
+
